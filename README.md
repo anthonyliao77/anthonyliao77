@@ -1,5 +1,5 @@
 # 👋 About Me:
-🧑‍🎓 I'm currently pursuing a MSc in Computer Science and Engineering at Chalmers University of Technology<br>🌱 I’m currently learning about Concurrent and Parallel programming<br>🏋️‍♂️ I like working out and staying active!<br>📖 I'm currently reading Designing Data-Intensive Applications by Martin Kleppmann<br><br>
+🧑‍🎓 I'm currently a MSc candidate in Computer Science and Engineering at Chalmers University of Technology<br>🌱 I’m currently learning about Concurrent and Parallel programming<br>🏋️‍♂️ I like working out and staying active!<br>📖 I'm currently reading Designing Data-Intensive Applications by Martin Kleppmann<br><br>
 
 
 # 💻 Tech Stack:
@@ -11,11 +11,3 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anthonyliao-) 
-
-### ✍️ Inspirational Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-[![](https://visitcount.itsvg.in/api?id=anthonyliao77&icon=1&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
